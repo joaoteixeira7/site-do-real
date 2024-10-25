@@ -4,6 +4,7 @@ body{
 header{
     border-bottom: solid 2px lightblue;
     padding-top: 10px;
-    font-size: larger;
+    font-size: xx-large;
+    font-style: italic;
     margin: 0;
 }
